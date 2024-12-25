@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:custom_top_navigator/custom_top_navigator.dart';
+import 'package:custom_top_navigator_plus/custom_top_navigator_plus.dart';
 
 void main() => runApp(MyApp());
 

@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  custom_top_navigator:
+  custom_top_navigator_plus:
     path: ../
 
   cupertino_icons: ^1.0.6
@@ -19,7 +19,6 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
 
 flutter:
   uses-material-design: true

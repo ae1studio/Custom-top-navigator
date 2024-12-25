@@ -1,4 +1,4 @@
-import 'package:custom_top_navigator/custom_top_navigator.dart';
+import 'package:custom_top_navigator_plus/custom_top_navigator_plus.dart';
 import 'package:flutter/material.dart';
 
 class CustomScaffold extends StatefulWidget {
