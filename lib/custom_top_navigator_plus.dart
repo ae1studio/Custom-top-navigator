@@ -218,6 +218,11 @@ class _CustomTopNavigatorState extends State<CustomTopNavigator>
   void didChangeViewFocus(ViewFocusEvent event) {
     // TODO: implement didChangeViewFocus
   }
+  
+  @override
+  void handleStatusBarTap() {
+    // TODO: implement handleStatusBarTap
+  }
 }
 
 class PageRoutes {
